@@ -7,7 +7,7 @@ This repository was created exclusively for evaluation purposes. For confidentia
 - Typescript
 
 ## How to run the tests
-1. Download and install Node.js
+1. Download and install Node.js.
 Refer to https://nodejs.org/en/download/current
 
 2. Clone the Project from the Git Repository to your local machine
