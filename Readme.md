@@ -1,7 +1,7 @@
 ## About
 This repository was created exclusively for evaluation purposes. For confidentiality reasons, no further information will be provided.
 
-## Technologies
+## Tech stack
 - Node.js
 - Playwright
 - Typescript
